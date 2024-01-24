@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\bin\Debug\net8.0\MRNU.exe
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\bin\Debug\net8.0\MRNU.deps.json
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\bin\Debug\net8.0\MRNU.runtimeconfig.json
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\bin\Debug\net8.0\MRNU.dll
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\bin\Debug\net8.0\MRNU.pdb
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\MRNU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\MRNU.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\MRNU.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\MRNU.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\MRNU.dll
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\refint\MRNU.dll
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\MRNU.pdb
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\MRNU.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Program\MRNU\MRNU\obj\Debug\net8.0\ref\MRNU.dll
